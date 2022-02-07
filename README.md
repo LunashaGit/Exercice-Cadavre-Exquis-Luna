@@ -10,4 +10,8 @@ I don't really know what to say I'm not very good at stories but it's always bet
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Et rem, asperiores tempore magni minus, molestiae debitis fugit dignissimos autem odio amet est numquam. Amet suscipit veniam, provident dignissimos praesentium excepturi
 
+<!--Story From Dimitri -->
+
+last part of the story debitis fugit dignissimos autem odio amet est numquam. Amet suscipit veniam, provident dignissimos praesentium excepturi
+
 On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte.
