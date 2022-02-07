@@ -15,3 +15,5 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Et rem, asperiores temp
 last part of the story debitis fugit dignissimos autem odio amet est numquam. Amet suscipit veniam, provident dignissimos praesentium excepturi
 
 On sait depuis longtemps que travailler avec du texte lisible et contenant du sens est source de distractions, et empêche de se concentrer sur la mise en page elle-même. L'avantage du Lorem Ipsum sur un texte générique comme 'Du texte.
+
+last
